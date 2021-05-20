@@ -1,8 +1,9 @@
 ### Natural Image Classification
 Classification of images in CIFAR-10 dataset 
 ## Description
-The CIFAR - 10 dataset contains images of 10 categories or classes that includes aeroplane, automobile, bird,cat, deer, dog,frog, horse, ship and truck. In total it contains 60K samples, 50000 for training and 10000 for testing.
-https://www.cs.toronto.edu/~kriz/cifar.html
+The CIFAR - 10 dataset contains images of 10 categories or classes that includes aeroplane, automobile, bird,cat, deer, dog,frog, horse, ship and truck. In total it contains 60K samples, 50000 for training and 10000 for testing.<br>
+
+[Dataset]:(https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Dependencies
 * Numpy
