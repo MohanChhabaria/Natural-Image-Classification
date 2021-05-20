@@ -19,7 +19,7 @@ https://www.cs.toronto.edu/~kriz/cifar.html
 * Multilayer Perceptron(ANN) <br/>
 * Random Forest Classifier <br/>
 
-The [a report](https://github.com/MohanChhabaria/Natural-Image-Classification/blob/main/CIFAR%2010%20classification%20report.pdf) contains the implementation of these classifiers with the analysis of each classifier.
+The [report](https://github.com/MohanChhabaria/Natural-Image-Classification/blob/main/CIFAR%2010%20classification%20report.pdf) contains the implementation of these classifiers with the analysis of each classifier.
 
 ## Contributors
 * Mohan Chhabaria
